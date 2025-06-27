@@ -4,9 +4,6 @@ import { loadHome } from "./loadHome.js";
 import { loadBeast } from "./loadBeast.js";
 import { loadLore } from "./loadLore.js";
 
-console.log("JS cargado");
-
-// --- Crear estructura base ---
 const content = document.createElement("div");
 content.id = "content";
 
